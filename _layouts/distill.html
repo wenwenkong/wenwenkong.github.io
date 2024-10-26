@@ -18,6 +18,7 @@
     {%- endif %}
   </head>
 
+<!-- 
   <d-front-matter>
     <script async type="text/json">{
       "title": "{{ page.title }}",
@@ -53,11 +54,12 @@
       }
     }</script>
   </d-front-matter>
+-->
 
   <body class="{%- if site.navbar_fixed -%}fixed-top-nav{%- endif -%} {%- unless site.footer_fixed -%}sticky-bottom-footer{%- endunless -%}">
 
     <!-- Header -->
-    {%- include header.html %}
+    <!--{%- include header.html %}-->
 
     <!-- Content -->
     <div class="post distill">
@@ -98,12 +100,16 @@
 
     </div>
 
+    
     <!-- Footer -->
+    <!--
     {%- include footer.html %}
 
     <d-bibliography src="{{ page.bibliography | prepend: '/assets/bibliography/' | relative_url }}"></d-bibliography>
     
     {% include scripts/bootstrap.html %}
-    {% include scripts/analytics.html %}
+    {% include scripts/analytics.html %} 
+    -->
+
   </body>
 </html>
