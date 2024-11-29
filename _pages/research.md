@@ -13,10 +13,10 @@ Temperature extremes affect human mortality, agricultural yields, and wildfires.
 
 <div class="row mt-3">
     <div class="col-sm mt-3 mt-md-0">
-        {% include figure.html path="assets/img/ipcc-t2m-probability-distribution.png" class="img-fluid rounded z-depth-1" %}
+        {% include figure.liquid path="assets/img/ipcc-t2m-probability-distribution.png" class="img-fluid rounded z-depth-1" %}
     </div>
     <div class="col-sm mt-3 mt-md-0">
-    	{% include figure.html path="assets/img/diagram-t2m-processes.png" class="img-fluid rounded z-depth-1" %}
+    	{% include figure.liquid path="assets/img/diagram-t2m-processes.png" class="img-fluid rounded z-depth-1" %}
     </div>
 </div>
 <div class="caption">
@@ -39,10 +39,10 @@ Below figures provide an overview of the climatological seasonal evolution of we
 
 <div class="row mt-3">
     <div class="col-sm mt-3 mt-md-0">
-        {% include figure.html path="assets/img/slider_rain_u200mb_1.png" class="img-fluid rounded z-depth-1" %}
+        {% include figure.liquid path="assets/img/slider_rain_u200mb_1.png" class="img-fluid rounded z-depth-1" %}
     </div>
     <div class="col-sm mt-3 mt-md-0">
-        {% include figure.html path="assets/img/slider_rain_u200mb_2.png" class="img-fluid rounded z-depth-1" %}
+        {% include figure.liquid path="assets/img/slider_rain_u200mb_2.png" class="img-fluid rounded z-depth-1" %}
     </div>
 </div>
 <div class="caption">
@@ -50,10 +50,10 @@ Westerlies and precipitation in (left) spring rainfall stage and (right) pre-mei
 </div>
 <div class="row mt-3">
     <div class="col-sm mt-3 mt-md-0">
-        {% include figure.html path="assets/img/slider_rain_u200mb_3.png" class="img-fluid rounded z-depth-1" %}
+        {% include figure.liquid path="assets/img/slider_rain_u200mb_3.png" class="img-fluid rounded z-depth-1" %}
     </div>
     <div class="col-sm mt-3 mt-md-0">
-        {% include figure.html path="assets/img/slider_rain_u200mb_4.png" class="img-fluid rounded z-depth-1" %}
+        {% include figure.liquid path="assets/img/slider_rain_u200mb_4.png" class="img-fluid rounded z-depth-1" %}
     </div>
 </div>
 <div class="caption">
