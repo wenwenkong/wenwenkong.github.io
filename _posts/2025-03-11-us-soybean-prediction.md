@@ -283,7 +283,7 @@ Unlike some other crops (e.g. corn) that are strongly influenced by soil type, d
 
 In this project, we focused solely on the predictive power of local monthly climate due to the lack of suitable datasets for other predictors. This limitation may have constrained our model’s predictability. Even for the climate data, we relied on a single source (NLDAS). Future work could involve testing alternative datasets that provide both atmospheric and land-based variables to validate or refine our findings. 
 
-**Corse timescale of crop yield**
+**Coarse timescale of crop yield**
 
 The crop yields data used in this project only provide annual yields, thus we lack information on the timing of soybean planting and seasonal growth cycle at each location and year. Several studies (Colet et al., 2023; Vann and Stokes, 2024) suggest that planting timing affects yield. Future work incorporating sub-annual yield estimates or phenological data could help capture these temporal variations. 
 
