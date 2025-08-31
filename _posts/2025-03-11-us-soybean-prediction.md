@@ -16,6 +16,7 @@ authors:
 #     for hyperlinks within the post to work correctly.
 #   - we may want to automate TOC generation in the future using
 #     jekyll-toc plugin (https://github.com/toshimaru/jekyll-toc).
+thumbnail: assets/img/posts/us_soybean_yield/fig_2_GDHY_Soybean_4yrs.png 
 toc:
   - name: Summary
     # if a section has subsections, you can add them as follows:
